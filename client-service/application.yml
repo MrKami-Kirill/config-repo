@@ -5,7 +5,7 @@ db:
   password: r53x46MXEz&H
   database: db_client_data
   schema: db_client_data
-  application-name: ${application-name}
+  application-name: client-service
   pool:
     enabled: true
     initial-size: 6
