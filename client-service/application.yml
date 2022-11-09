@@ -1,5 +1,5 @@
 db:
-  host: localhost
-  port: 5432
-  username: spring_cloud_user
-  password: r53x46MXEz&H
+  host: {chipher}dc1b2c2c14c8d1c5101dc849891d3b252a729ba4cde24219576f7d4851ba47b9
+  port: {chipher}51975961190d1fc9814b00691f71efdeabc9e5f18277249342220b84fa02ea9a
+  username: {chipher}8a3c878d449173b62d2f030bdb1797139e1cf42a46dc1c2ad7e34b30b55f8b451d03fd6b70e3a5cf909b0f85ae892b7d
+  password: {chipher}da7db216bd5b9a169583947a94a7101c9cf289846a8512a65eec0785c11971ab
