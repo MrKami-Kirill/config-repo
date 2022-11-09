@@ -3,13 +3,3 @@ db:
   port: 5432
   username: spring_cloud_user
   password: r53x46MXEz&H
-  database: db_client_data
-  schema: db_client_data
-  application-name: client-service
-  pool:
-    enabled: true
-    initial-size: 6
-    max-size: 6
-    max-idle-time: 301m
-    max-acquire-time: 2m
-    max-life-time: 301m
