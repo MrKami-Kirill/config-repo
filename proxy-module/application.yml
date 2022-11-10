@@ -1,6 +1,6 @@
 api:
   path:
-    additional: /proxy-module2
+    additional: /proxy-module
     clients: /getClients
     client-by-id: /getClientById/{clientId}
     client-contacts: /getClientContacts/{clientId}
