@@ -1,0 +1,11 @@
+api:
+  path:
+    additional: /proxy-module
+    clients: /getClients
+    client-by-id: /getClientById/{clientId}
+    client-contacts: /getClientContacts/{clientId}
+    add-client: /addClient
+    change-client: /changeClient/{clientId}
+    add-contact-to-client: /addContactToClient/{clientId}
+    delete-client: /deleteClient/{clientId}
+    delete-client-contact: /deleteClientContact/{clientId}/{contactId}
