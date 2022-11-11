@@ -1,8 +1,9 @@
 db:
-  host: '{cipher}814d65cf6c291826355fffc77098dcfbb2ebaf6e1c04e5124cdbbe51810991af'
+  host: '{cipher}fad3871c2e45e71bfbd047254cd127fbe8c7c9a13e74e851cc44d2b6c33119ca'
   port: '{cipher}51975961190d1fc9814b00691f71efdeabc9e5f18277249342220b84fa02ea9a'
   username: '{cipher}8a3c878d449173b62d2f030bdb1797139e1cf42a46dc1c2ad7e34b30b55f8b451d03fd6b70e3a5cf909b0f85ae892b7d'
   password: '{cipher}da7db216bd5b9a169583947a94a7101c9cf289846a8512a65eec0785c11971ab'
 
+#Для презентации Spring Cloud Bus
 text:
   test-message-log: test message log v123123123123123123123
