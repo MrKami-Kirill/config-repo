@@ -6,4 +6,4 @@ db:
 
 #Для презентации Spring Cloud Bus
 text:
-  test-message-log: test message log 2
+  test-message-log: test message log
